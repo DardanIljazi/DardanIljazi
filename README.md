@@ -9,7 +9,7 @@
 
 I am a Full-stack Developer exploring new technologies (in particular ML/NLP) and doing sometimes electronics/3d printing stuff.
 
- 🔭 I’m actually working on: **[WeSkill](https://weskill.ch/)**.
+ 🔭 I’m actually working on: **[WeSkill](https://weskill.ch/)** and **[3D Printed Robot 2020](https://github.com/DardanIljazi/3d-Printed-Robot-2020/)**.
 
  🌱 I’m currently learning time to time:
 
