@@ -24,6 +24,8 @@ I am a Full-stack Developer exploring new technologies (in particular ML/NLP) an
 - USBHid: A project that consists to make a little Remote Administration Tool for fun, to test Node.js, Websockets, C++ and Web Application Messaging Protocol
 - And others websites or testing projects that I prefer not to make public for now
 
+## [🔧CV](https://dardi.ch/CV)
+
  💬 Ask me about Full Stack Development, if you need help on any of my projects or any other related stuff.
 
 
