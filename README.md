@@ -9,15 +9,12 @@
 
 I am a Full-stack Developer exploring new technologies (in particular ML/NLP) and doing sometimes electronics/3d printing stuff.
 
- 🔭 I’m actually working on: **[WeSkill](https://weskill.ch/)** and **[3D Printed Robot 2020](https://github.com/DardanIljazi/3d-Printed-Robot-2020/)**.
+ 🔭 I’m actually working on: **[Doge Classifier](https://dogeclassifier.com/)** and **[WeSkill](https://weskill.ch/)**.
 
- 🌱 I’m currently learning time to time:
-
-	- Natural Language Processing on Coursera
-	- Java Spring (learning it on the job by making WeSkill project)
 
 ℹ️ Most of my biggest projects are not public on GitHub, this includes:
 
+- Doge Classifier Machine Learning script (Python, Kafka, Jenkins, Reddit + Twitter API, Tensorflow/Keras + dataset of ~8'000 pictures) --> Will be released later 
 - WeSkill: a website classifying and showing which technologies are the most in-demand in the swiss labor market
 - AnimalTracker (temporal name): a tracker for animals, including electronics/3d design/C & C++ programming/Data gathering for Business Intelligence/Laravel backend
 - (#hidden-name): My diploma work that consists of scrapping data for a given subject and see how this subject spread over internet and over time
